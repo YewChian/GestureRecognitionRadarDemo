@@ -4,8 +4,7 @@
         2. A range-doppler heatmap visualizing the people in a room.
         3. A video feed.
     
-    Python was used to parse the binary data from the Radar module into a 2D matrix of values corresponding to different ranges and time.
-    Matlab was used to provide the GUI to visualiize all the charts at the same time.
+    Python was used to parse the binary data from the Radar module into a 2D matrix of values corresponding to different ranges and velocities, as well as call radar CLI commands repeatedly to stream data continuously.
 
 ## About this project:
 
